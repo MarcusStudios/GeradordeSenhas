@@ -27,7 +27,7 @@ Este é um gerador de senhas robusto e personalizável desenvolvido em Java, pro
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerador-senhas-java.git
+  gh repo clone MarcusStudios/GeradordeSenhas
    ```
 
 2. Navegue até o diretório do projeto:
