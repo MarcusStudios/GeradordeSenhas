@@ -93,7 +93,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` p
 
 ## 📞 Contato
 
-Seu Nome - marcuseduardo846@gmail.com
+marcuseduardo846@gmail.com
 
 
 
